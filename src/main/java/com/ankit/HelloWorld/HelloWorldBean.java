@@ -1,4 +1,4 @@
-package com.ankit.Ecom;
+package com.ankit.HelloWorld;
 
 public class HelloWorldBean {
 

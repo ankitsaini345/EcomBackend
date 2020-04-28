@@ -1,0 +1,2 @@
+--insert into Product(id,category,description,image_url,price,product_code,product_name,release_date,star_rating)
+--values(1,'dssd','dssd','dssd',456,'dssd','dssd','dssd',3)
